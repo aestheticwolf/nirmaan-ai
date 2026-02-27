@@ -1,14 +1,16 @@
 # Node
-node_modules/
-.next/
+nirmaan-ui/node_modules
+nirmaan-ui/.next
 
 # Python
-venv/
-__pycache__/
+nirmaan-backend/venv
+nirmaan-backend/__pycache__
 *.pyc
 
 # Environment
 .env
+nirmaan-backend/.env
+nirmaan-ui/.env.local
 
 # OS
 .DS_Store
